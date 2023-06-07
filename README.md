@@ -2,11 +2,19 @@
 
 <br>
 
+
+
+
 ## 概要
 - M5Stack-Greyを使って車輪型の倒立振子ロボットを作った
 - BlynkというiPhoneアプリを使ってラジコンみたいに操作できる
 - 300gぐらいならおもりを載せても動作可
 - 楽しい
+
+---
+
+## 走行動画
+https://github.com/Yoshiaki-Abe/M5_Self-Blancing_Car/assets/77134300/6b4af9cf-51b0-4ec8-abd3-7b5466c82a7e
 
 ---
 
