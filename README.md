@@ -23,18 +23,18 @@ M5Stack-greyを使った車輪型の倒立振子ロボット
 - ステッピングモータ
     - 入手性が良く，制御しやすい
     - トルクがそれなりにあるので，ダイレクトドライブで使える．ギヤのバックラッシは倒立振子の挙動を不安定にさせやすい．
-![robot_image][/images/robot.png]
+![robot_image](/images/robot.png)
 
 - 内部
-![coverless_image][/images/coverless.png]
+![coverless_image](/images/coverless.png)
 
 ## システム構成
 
-![system_overview][/images/system_overview.png]
+![system_overview](/images/system_overview.png)
 
 - Blynkアプリの操作画面
-![control_interface][/images/control_interface.png]
+![control_interface](/images/control_interface.png)
 
 ## 制御
 
-![control_diagram][/images/control_diagram.png]
+![control_diagram](/images/control_diagram.png)
