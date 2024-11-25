@@ -48,7 +48,7 @@ https://github.com/Yoshiaki-Abe/M5_Self-Blancing_Car/assets/77134300/6b4af9cf-51
 
 <br>
 
-<img src="images/coverless.png" height=320px>
+<img src="images/coverless.png" height=320px style="object-fit: contain;">
 
 ---
 
@@ -56,7 +56,7 @@ https://github.com/Yoshiaki-Abe/M5_Self-Blancing_Car/assets/77134300/6b4af9cf-51
 
 <br>
 
-<img src="images/system_overview.png" height=320px>
+<img src="images/system_overview.png" height=320px style="object-fit: contain;">
 
 <br>
 
@@ -66,7 +66,7 @@ https://github.com/Yoshiaki-Abe/M5_Self-Blancing_Car/assets/77134300/6b4af9cf-51
 - バッテリ電圧の監視
 
 <br>
-<img src="images/control_interface.png" height=320px>
+<img src="images/control_interface.png" height=320px style="object-fit: contain;">
 
 ---
 
@@ -84,4 +84,4 @@ https://github.com/Yoshiaki-Abe/M5_Self-Blancing_Car/assets/77134300/6b4af9cf-51
 
 <br>
 
-<img src="images/control_diagram.png" height=160px>
+<img src="images/control_diagram.png" height=160px style="object-fit: contain;">
